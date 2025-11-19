@@ -1,7 +1,5 @@
 {
-  "build": {
-    "builder": "docker"
-  },
+  "builder": "Docker",
   "deploy": {
     "restartPolicyType": "ON_FAILURE",
     "healthcheckPath": "/"
