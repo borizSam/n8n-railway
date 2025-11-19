@@ -1,4 +1,4 @@
-FROM n8nio/n8n
+FROM n8nio/n8n:1.63.1
 
 ENV N8N_USER_FOLDER=/home/node/.n8n
 
